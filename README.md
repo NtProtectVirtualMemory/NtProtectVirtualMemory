@@ -35,51 +35,55 @@
 
 ---
 
-### 📊 GitHub Stats
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <br>
 
-<!-- LIGHT MODE -->
-<a href="https://github.com/NtProtectVirtualMemory#gh-light-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-        <img
-          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=000000&text_color=000000&icon_color=4C8EDA&bg_color=ffffff&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-          alt="My GitHub stats"
-          height="370"
-        />
-      </td>
-      <td style="border: 0;">
-        <img
-          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&layout=pie&count_private=true&hide_border=true&title_color=000000&text_color=000000&icon_color=4C8EDA&bg_color=ffffff&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20I%20Use%20Most"
-          alt="My Language stats"
-          width="280"
-        />
-      </td>
-    </tr>
-  </table>
-</a>
+  <!-- LIGHT MODE -->
+  <a href="https://github.com/NtProtectVirtualMemory#gh-light-mode-only">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=000000&text_color=000000&icon_color=4C8EDA&bg_color=ffffff&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+            alt="My GitHub stats"
+            height="370"
+          />
+        </td>
+        <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&layout=pie&count_private=true&hide_border=true&title_color=000000&text_color=000000&icon_color=4C8EDA&bg_color=ffffff&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20I%20Use%20Most"
+            alt="My Language stats"
+            width="280"
+          />
+        </td>
+      </tr>
+    </table>
+  </a>
 
-<!-- DARK MODE -->
-<a href="https://github.com/NtProtectVirtualMemory#gh-dark-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-        <img
-          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=151515&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-          alt="My GitHub stats"
-          height="370"
-        />
-      </td>
-      <td style="border: 0;">
-        <img
-          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&layout=pie&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=151515&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20I%20Use%20Most"
-          alt="My Language stats"
-          width="280"
-        />
-      </td>
-    </tr>
-  </table>
-</a>
+  <!-- DARK MODE -->
+  <a href="https://github.com/NtProtectVirtualMemory#gh-dark-mode-only">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=151515&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+            alt="My GitHub stats"
+            height="370"
+          />
+        </td>
+        <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&layout=pie&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=151515&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20I%20Use%20Most"
+            alt="My Language stats"
+            width="280"
+          />
+        </td>
+      </tr>
+    </table>
+  </a>
+
+</details>
 
 ---
 
