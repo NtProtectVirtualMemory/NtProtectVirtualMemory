@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hey, I'm crim </h1> 
 <h3 align="center"> Reverse Engineering · Kernel Development</h3> 
 
@@ -6,11 +7,10 @@
 </p>
 
 ---
+
+<p align="center"><b>About me:</b></p>
 <p align="center">
-About me:
-	<p align="center">
-		I'm an experienced reverse engineer and game hacking enthusiast.  Most of my knowledge was gained through hands-on practice and the resources that can be found at https://guidedhacking.com.
-	</p>
+  I'm an experienced reverse engineer and game hacking enthusiast. Most of my knowledge was gained through hands-on practice and the resources that can be found at <a href="https://guidedhacking.com" target="_blank">Guided Hacking</a>.
 </p>
 
 ---
@@ -23,8 +23,11 @@ About me:
 
 ---
 
-### 🛠 Tools i actively use
- ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&&logoColor=white) ![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-FA0053?style=for-the-badge)  ![x64dbg](https://img.shields.io/badge/x64dbg-ED1C24?style=for-the-badge&logo=windows&logoColor=white) ![Packet Ripper](https://img.shields.io/badge/Packet_Ripper-005F73?style=for-the-badge)
+### 🛠 Tools I Actively Use
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&&logoColor=white)  
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-FA0053?style=for-the-badge)  
+![x64dbg](https://img.shields.io/badge/x64dbg-ED1C24?style=for-the-badge&logo=windows&logoColor=white)  
+![Packet Ripper](https://img.shields.io/badge/Packet_Ripper-005F73?style=for-the-badge)
 
 ---
 
@@ -33,42 +36,43 @@ About me:
 ---
 
 ### 📊 GitHub Stats
-<!-- GRS (Light Mode) -->
+
+<!-- LIGHT MODE -->
 <a href="https://github.com/NtProtectVirtualMemory#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=false#gh-light-mode-only"
-            alt="My Github stats"
-            height="370"
-          />
-      </td>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&count_private=true&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=false#gh-light-mode-only"
-            alt="My Language stats"
-            width="280"
-          />
-      </td>
-    </tr>
-  </table>
-</a>
-
-<!-- GRS (Dark Mode) -->
-<a href="https://github.com/NtProtectVirtualMemory#gh-dark-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
         <img
-          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=false#gh-dark-mode-only"
-          alt="My Github stats"
+          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=000000&text_color=000000&icon_color=4C8EDA&bg_color=ffffff&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+          alt="My GitHub stats"
           height="370"
         />
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&count_private=true&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=false#gh-dark-mode-only"
+          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&layout=pie&count_private=true&hide_border=true&title_color=000000&text_color=000000&icon_color=4C8EDA&bg_color=ffffff&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20I%20Use%20Most"
+          alt="My Language stats"
+          width="280"
+        />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- DARK MODE -->
+<a href="https://github.com/NtProtectVirtualMemory#gh-dark-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+        <img
+          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api?username=NtProtectVirtualMemory&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=151515&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+          alt="My GitHub stats"
+          height="370"
+        />
+      </td>
+      <td style="border: 0;">
+        <img
+          src="https://github-readme-stats-git-master-ntprotectvirtualmemorys-projects.vercel.app/api/top-langs/?username=NtProtectVirtualMemory&layout=pie&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=151515&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20I%20Use%20Most"
           alt="My Language stats"
           width="280"
         />
@@ -79,5 +83,22 @@ About me:
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=NtProtectVirtualMemory&theme=flat&margin-w=10)
+<details>
+  <summary>🏆 GitHub Trophies</summary>
+  <br>
+
+  <!-- LIGHT MODE -->
+  <a href="https://github.com/NtProtectVirtualMemory#gh-light-mode-only">
+    <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=NtProtectVirtualMemory&theme=flat&margin-w=10" alt="GitHub Trophies" />
+    </p>
+  </a>
+
+  <!-- DARK MODE -->
+  <a href="https://github.com/NtProtectVirtualMemory#gh-dark-mode-only">
+    <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=NtProtectVirtualMemory&theme=darkhub&margin-w=10" alt="GitHub Trophies Dark" />
+    </p>
+  </a>
+
+</details>
